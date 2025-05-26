@@ -96,7 +96,7 @@ npm start
 Este projeto é de uso educacional e segue a licença MIT.
 
 👥 Autores
-Nome: Vlademir Vinhoto Junior
-Nome: Lucas Leal Cardoso
+Vlademir Vinhoto Junior, RA: 22014195-2
+Lucas Leal Cardoso, RA: 22015777-2
 
 Curso: ENgenharia de Software
