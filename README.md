@@ -97,5 +97,6 @@ Este projeto é de uso educacional e segue a licença MIT.
 
 👥 Autores
 Nome: Vlademir Vinhoto Junior
+Nome: Lucas Leal Cardoso
 
 Curso: ENgenharia de Software
